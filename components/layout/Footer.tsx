@@ -1,4 +1,4 @@
-import { Facebook, Instagram, Linkedin, Twitter } from "lucide-react";
+//import { Facebook, Instagram, Linkedin, Twitter } from "lucide-react";
 import Logo from "@/assets/logonname.png";
 import Link from "next/link";
 import Image from "next/image";

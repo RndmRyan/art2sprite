@@ -1,4 +1,4 @@
-import { ArrowRight, Code, Zap } from "lucide-react";
+//import { ArrowRight, Code, Zap } from "lucide-react";
 import Image from "next/image";
 import mascot from "@/assets/mascot.png";
 

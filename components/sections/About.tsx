@@ -3,9 +3,9 @@ export function About() {
     <section className="py-24 bg-white">
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto text-center mb-16">
-          <h2 className="text-4xl font-bold mb-4 text-themeblue">About Art2Sprite's Creators</h2>
+          <h2 className="text-4xl font-bold mb-4 text-themeblue">About Art2Sprite Creators</h2>
           <p className="text-gray-900">
-            We're a team of passionate AI enthusiasts dedicated to streamlining the creative process in game development.
+            We are a team of passionate AI enthusiasts dedicated to streamlining the creative process in game development.
             Our mission is to empower creators with innovative tools that simplify workflows and unleash creativity.
           </p>
         </div>        
